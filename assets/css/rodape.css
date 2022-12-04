@@ -1,0 +1,7 @@
+.rodape{
+  font-size: 1rem;
+  background-color: #FDFDFD;
+  grid-area: rodape;
+  padding: 2rem 1rem;
+  text-align: center;
+}
